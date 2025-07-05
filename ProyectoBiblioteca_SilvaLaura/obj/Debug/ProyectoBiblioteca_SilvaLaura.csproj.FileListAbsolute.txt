@@ -1,0 +1,5 @@
+C:\Users\laura\Documents\SharpDevelop Projects\ProyectoBiblioteca_SilvaLaura\ProyectoBiblioteca_SilvaLaura\obj\Debug\ProyectoBiblioteca_SilvaLaura.csprojResolveAssemblyReference.cache
+C:\Users\laura\Documents\SharpDevelop Projects\ProyectoBiblioteca_SilvaLaura\ProyectoBiblioteca_SilvaLaura\bin\Debug\ProyectoBiblioteca_SilvaLaura.exe
+C:\Users\laura\Documents\SharpDevelop Projects\ProyectoBiblioteca_SilvaLaura\ProyectoBiblioteca_SilvaLaura\bin\Debug\ProyectoBiblioteca_SilvaLaura.pdb
+C:\Users\laura\Documents\SharpDevelop Projects\ProyectoBiblioteca_SilvaLaura\ProyectoBiblioteca_SilvaLaura\obj\Debug\ProyectoBiblioteca_SilvaLaura.exe
+C:\Users\laura\Documents\SharpDevelop Projects\ProyectoBiblioteca_SilvaLaura\ProyectoBiblioteca_SilvaLaura\obj\Debug\ProyectoBiblioteca_SilvaLaura.pdb
